@@ -8,9 +8,10 @@ dapAn = document.getElementsByClassName("text-primary");
 cauHoi = document.getElementsByClassName("col-11 question-box-title");
 ans = [];
 for(i=1;i<dapAn.length;i++){
- var question = cauHoi[i-1].innerText; 
- var answer =  dapAn[i].parentNode.nextElementSibling.innerText;
- ans.push(question)
- ans.push(answer);
+	var question = cauHoi[i-1].innerText; 
+	var answer =  dapAn[i].parentNode.nextElementSibling.innerText;
+	question = question.replace(/(\r\n|\n|\r)/gm,"");
+	ans.push(question)
+	ans.push(answer);
 }
 localStorage.setItem("ans",JSON.stringify(ans));
