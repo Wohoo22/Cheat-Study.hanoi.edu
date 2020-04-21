@@ -53,7 +53,7 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
 * Chú ý: Trước khi thực hiện, mở chrome://extensions/, mở "Chi tiết" của extension localStorageManager, bật "Cho phép ở chế độ ẩn danh".
 * Lưu ý: Với đề toán, mỗi khi đến bước ấn F12, SAU KHI ẤN F12, các bạn đợi tầm 5-10s rồi mới nhập code để cho các công thức toán được load xong hết, nếu làm vội quá các biểu thức toán chưa kịp load xong thì code sẽ k hoạt động đúng.
 
-*Các bạn có thể đăng nhập nick khác để chạy code lấy đán án (getAnsQues.js) rồi đăng nhập lại sang nick mình chạy code nhập đáp án (pickRightAnswer3.js) mà không cần dùng add-on. Còn nếu cần làm nhiều đề cùng lúc thì làm kiểu dưới này cho tiện.
+*Các bạn có thể đăng nhập nick khác để chạy code lấy đán án (getAnsQues.js) rồi đăng nhập lại sang nick mình chạy code nhập đáp án (pickRightAnswer3.js) mà không cần dùng add-on, vì làm kiểu này độ chính xác cao hơn. Còn nếu cần làm nhiều đề cùng lúc thì làm kiểu dưới này cho tiện.
 
 *Bước 1: Mở Chrome/Cốc cốc lên, đăng nhập nick mình và bật ẩn danh Ctrl+Shift+N để đăng nhập nick clone.
 
