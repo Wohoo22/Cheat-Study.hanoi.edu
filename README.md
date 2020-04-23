@@ -49,20 +49,9 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
 *Bước 3: Ấn "Quay lại kì thi", vào thi, bắt đầu làm bài, F12->Console (xong rồi đợi 5-10s nếu làm toán), copy code trong file pickRightAnswer3.js rồi Enter. Lúc này các đáp án đúng đã đc chọn.
 
 
-## CÁCH 2.2(cho mấy bạn có nick khác và k muốn bị điểm 0 lần đầu)(cần dùng add-on):
-* Chú ý: Trước khi thực hiện, mở chrome://extensions/, mở "Chi tiết" của extension localStorageManager, bật "Cho phép ở chế độ ẩn danh".
-* Lưu ý: Với đề toán, mỗi khi đến bước ấn F12, SAU KHI ẤN F12, các bạn đợi tầm 5-10s rồi mới nhập code để cho các công thức toán được load xong hết, nếu làm vội quá các biểu thức toán chưa kịp load xong thì code sẽ k hoạt động đúng.
+## CÁCH 2.2(cho mấy bạn có nick khác và k muốn bị điểm 0 lần đầu):
 
-*Các bạn có thể đăng nhập nick khác để chạy code lấy đán án (getAnsQues.js) rồi đăng nhập lại sang nick mình chạy code nhập đáp án (pickRightAnswer3.js) mà không cần dùng add-on, vì làm kiểu này độ chính xác cao hơn. Còn nếu cần làm nhiều đề cùng lúc thì làm kiểu dưới này cho tiện.
+*Bước 1: Đăng nhập nick khác, vào đề thi cần làm, CHỈ LÀM CÂU 1, nộp bài, vào "Chi tiết bài làm", F12->Console(xong đợi 5-10s nếu làm toán), nhập code trong file getAnsQues.js rồi ENTER.
 
-*Bước 1: Mở Chrome/Cốc cốc lên, đăng nhập nick mình và bật ẩn danh Ctrl+Shift+N để đăng nhập nick clone.
-
-*Bước 2: Vào nick clone, chọn đề thi cần làm, CHỈ LÀM CÂU 1 (đúng hay sai đều đc), nộp bài, mở "Chi tiết bài làm", F12->console (xong rồi đợi 5-10s nếu làm toán), copy code trong file getAnsQues.js rồi Enter.
-
-*Bước 3: Mở add-on localStorageManager, bạn sẽ thấy 1 hàng có Name là "ans", ấn vào hình mũi tên ở cuối hàng để mở cửa sổ Value, copy hết code bên trong (bắt đầu copy từ dấu "[" đến hết dấu "]"), đây chính là các giá trị câu hỏi và đáp án từng câu của đề.
-
-*Bước 4: Mở nick mình, vào đề thi cần làm, bắt đầu làm bài, mở add-on localStorageManager -> chọn "Add" -> nhập Key là "ans" rồi ấn OK  -> nhập Value là code đã copy ở Bước 3 rồi ấn OK.
-
-*Bước 5: F12 -> Console (xong rồi đợi 5-10s nếu làm toán), copy code trong file pickRightAnswer3.js rồi Enter. Lúc này các đáp án đúng đã đc chọn.
-
+*Bước 2: Làm xong bước 1 thì đăng xuất luôn xong đăng nhập vào nick mình, vào đề thi cần làm, vào thi, F12->Console(xong đợi 5-10s nếu làm toán), nhập code trong file pickRightAnswer3,js rồi ENTER.
 
