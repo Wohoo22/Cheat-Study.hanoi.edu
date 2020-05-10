@@ -6,7 +6,8 @@ for(i=0;i<cauHoi.length;i++){
 		x=cauHoi[i].innerText.replace(/(\r\n|\n|\r)/gm,"");
 		if(x == ans[i2]){
 			for(i3=i*4; i3<i*4+4; i3++){
-				if(buttons[i3].parentNode.nextElementSibling.innerText == ans[i2+1]){
+				y=buttons[i3].parentNode.nextElementSibling.innerText.replace(/(\r\n|\n|\r)/gm,"");
+				if(y == ans[i2+1]){
 					buttons[i3].onclick();
 				}
 			}
