@@ -39,7 +39,7 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
 * Chú ý: Code 2 môn này sẽ cho bạn điểm 10, nếu bạn muốn điểm thấp hơn thì sau khi code đã nhập đáp án đúng cho bạn, bạn có thể chọn lại đáp án sai bao nhiêu câu mà bạn muốn để điểm thấp hơn :)) .
 
 
-## CÁCH 2(dùng cho tất cả các đề các môn):
+## CÁCH 2(dùng cho tất cả các đề các môn)(đảm bảo 10 điểm):
 * Lưu ý: Với đề toán, mỗi khi đến bước ấn F12, SAU KHI ẤN F12, các bạn đợi tầm 5-10s rồi mới nhập code để cho các công thức toán được load xong hết, nếu làm vội quá các biểu thức toán chưa kịp load xong thì code sẽ k hoạt động đúng.
 
 *Bước 1: Vào đề thi cần làm, vào thi, CHỈ CHỌN ĐÁP ÁN CÂU 1 (đúng hay sai cũng được), nộp bài.
@@ -49,7 +49,7 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
 *Bước 3: Ấn "Quay lại kì thi", vào thi, bắt đầu làm bài, F12->Console (xong rồi đợi 5-10s nếu làm toán), copy code trong file pickRightAnswer3.js rồi Enter. Lúc này các đáp án đúng đã đc chọn.
 
 
-## CÁCH 2.2(cho mấy bạn có nick khác và k muốn bị điểm 0 lần đầu):
+## CÁCH 2.2(cho mấy bạn có nick khác và k muốn bị điểm 0 lần đầu)(dùng cho tất cả các đề các môn)(đảm bảo 10 điểm):
 
 *Bước 1: Đăng nhập nick khác, vào đề thi cần làm, CHỈ LÀM CÂU 1, nộp bài, vào "Chi tiết bài làm", F12->Console(xong đợi 5-10s nếu làm toán), nhập code trong file getAnsQues.js rồi ENTER.
 
