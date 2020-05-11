@@ -40,7 +40,7 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
 
 
 ## CÁCH 2(dùng cho tất cả các đề các môn)(đảm bảo 10 điểm):
-* Lưu ý, nếu làm Toán hoặc Lý, ở bước 1, TRƯỚC KHI NỘP BÀI, chuột trái -> chuột phải vào 1 kí hiệu toán học bất kì ở chỗ đáp án -> Math Setting -> Math renderer -> chọn Plain Source. Đổi 1 lần là lần sau k cần đổi nữa.
+* Lưu ý, nếu làm Toán hoặc Lý, ở bước 1, TRƯỚC KHI NỘP BÀI, chuột trái vào 1 kí hiệu toán học bất kì ở chỗ đáp án (sẽ thấy nó hiện 1 vòng màu xanh xung quanh kí hiệu toán đó) -> chuột phải lại vào nó -> Math Setting -> Math renderer -> chọn Plain Source. Đổi 1 lần là lần sau k cần đổi nữa.
  
 *Bước 1: Vào đề thi cần làm, vào thi, (làm toán/lý thì đổi Math Renderer như trên), KHÔNG CHỌN ĐÁP ÁN CÂU NÀO CẢ, nộp bài.
 
@@ -50,7 +50,7 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
 
 
 ## CÁCH 2.2(cho mấy bạn có nick khác và k muốn bị điểm 0 lần đầu)(dùng cho tất cả các đề các môn)(đảm bảo 10 điểm):
-* Lưu ý, nếu làm Toán hoặc Lý, ở bước 1, TRƯỚC KHI NỘP BÀI, chuột trái -> chuột phải vào 1 kí hiệu toán học bất kì ở chỗ đáp án -> Math Setting -> Math renderer -> chọn Plain Source. Đổi 1 lần là lần sau k cần đổi nữa.
+* Lưu ý, nếu làm Toán hoặc Lý, ở bước 1, TRƯỚC KHI NỘP BÀI, chuột trái vào 1 kí hiệu toán học bất kì ở chỗ đáp án (sẽ thấy nó hiện 1 vòng màu xanh xung quanh kí hiệu toán đó) -> chuột phải lại vào nó -> Math Setting -> Math renderer -> chọn Plain Source. Đổi 1 lần là lần sau k cần đổi nữa.
 
 *Bước 1: Đăng nhập nick khác, vào đề thi cần làm, (làm toán/lý thì đổi Math Renderer như trên), KHÔNG CHỌN ĐÁP ÁN CÂU NÀO CẢ, nộp bài, vào "Chi tiết bài làm", F12->Console, nhập code trong file getAnsQues.js rồi ENTER.
 
