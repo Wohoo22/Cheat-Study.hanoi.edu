@@ -2,10 +2,7 @@
 Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn from Quân Đặng lớp 12 with luv <3
 
 # UPDATE:
-* Đã fix lỗi đề GDCD, bây giờ môn GDCD dùng cách làm ở mục /#1/ (giống môn Toán lớp 12).
-* Website của sở giáo dục mới update, tin vui là code tất cả các môn lớp 12 vẫn dùng ngon, tin buồn là đề lớp 11 và đề ôn tập chương toán 12 k còn dùng đc nữa và mình cũng lười k muốn update lại đề lớp 11 đâu, chỉ update lại đề ôn tập chương toán lớp 12 thôi (vì mình lớp 12), các bạn lớp 11 và các khối khác dùng code ở cách 2 là đc.
-* Update thêm code dùng chung cho TẤT CẢ CÁC ĐỀ, lớp nào cũng dùng được, môn nào cũng được ở mục Cách 2, tuy nhiên ở cách này thì các bạn phải lấy 1 điểm 0 vào lần thì đầu tiên và đến lần thi thứ 2 mới đc 10 điểm. Còn nếu k muốn 0 điểm lần đầu thì làm cách 2.2.
-* Ở phần cách 1, có 1 số đề Sinh, Hóa có những câu có nội dung đáp án trùng nhau nên code ở cách 1 sẽ không chọn đúng 1 vài câu, mình đã fix lỗi này ở code của cách 2 và 2.2, nên những bạn nào muốn đc 10 hóa sinh thì nên làm theo cách 2 hoặc 2.2.
+* Mới update vào tối 10/5 nên nhớ đọc kĩ hướng dẫn.
 
 # HƯỚNG DẪN:
 * Trước tiên các bạn phải bắt buộc cài add-on này vào Chrome hoặc Cốc Cốc:
