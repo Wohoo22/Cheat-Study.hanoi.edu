@@ -3,6 +3,7 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
 
 # UPDATE:
 * Mới update vào tối 10/5 nên nhớ đọc kĩ hướng dẫn.
+* Cách 2 và 2.2 dùng được cho TẤT CẢ CÁC MÔN và chắc chắn được 10 nên khuyên dùng cách này.
 
 # HƯỚNG DẪN:
 * Trước tiên các bạn phải bắt buộc cài add-on này vào Chrome hoặc Cốc Cốc:
