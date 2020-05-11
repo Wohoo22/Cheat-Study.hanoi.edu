@@ -1,5 +1,5 @@
 # Cheat-Study.edu
-Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn from Quân Đặng lớp 12 with luv <3
+Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn from Q with luv <3
 
 # UPDATE:
 * Mới update vào tối 10/5 nên nhớ đọc kĩ hướng dẫn.
