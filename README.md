@@ -11,7 +11,7 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
 * Chú ý: Với các môn khác môn toán lớp 12 thì dùng cách ở mục /#0/, đề toán lớp 12 thì dùng cách ở mục /#1/ ở Cách 1. Code dùng cho mọi đề thì dùng Cách 2.
 * Lưu ý: folder "Mã đề toán" chỉ chứa đề toán của lớp 12.
 
-## CÁCH 1(được 10 ngay lần làm đầu tiên):
+## CÁCH 1(được 10 ngay lần làm đầu tiên)(chỉ có đề lớp 12):
 * Ở phần cách 1, có 1 số đề Sinh, Hóa có những câu có nội dung đáp án trùng nhau nên code ở cách 1 sẽ không chọn đúng 1 vài câu, mình đã fix lỗi này ở code của cách 2 và 2.2, nên những bạn nào muốn đc 10 hóa sinh thì nên làm theo cách 2 hoặc 2.2.
 * Với những bạn cần điểm cao, điểm 10 thì nên dùng cách 2 và 2.2 vì mình đã tối ưu code để đảm bảo độ chính xác đáp án của tất cả các đề, còn với những bạn chỉ cần làm cho có, lấy điểm khá (từ 8-10) thì dùng cách 1 là ok, vì cách 1 là code bản đầu tiên của mình nên vẫn còn 1 số lỗi nho nhỏ (với 1 số đề) nên điểm sẽ dao động từ 8-10( trừ Toán với GDCD thì sẽ đc 10 tuyệt đối).
 
