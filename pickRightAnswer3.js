@@ -15,4 +15,4 @@ for(i=0;i<cauHoi.length;i++){
 		}
 	}
 }
-console.log("Đã chọn "+pickCount+"/"+cauHoi.length+", các câu đúng đã được chuyển thành màu đỏ, bạn có thể chọn lại để điểm thấp hơn.");
+alert("Ấn OK để chọn "+pickCount+"/"+cauHoi.length+", các câu đúng sẽ chuyển thành màu đỏ, bạn có thể chọn lại để điểm thấp hơn (mỗi câu "+10/cauHoi.length+" điểm.");
