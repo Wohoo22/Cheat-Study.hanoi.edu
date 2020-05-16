@@ -15,4 +15,4 @@ for(i=0;i<cauHoi.length;i++){
 		}
 	}
 }
-alert("Đã chọn "+pickCount+"/"+cauHoi.length+", các câu đúng đã được chuyển thành màu đỏ, bạn có thể chọn lại để điểm thấp hơn.");
+console.log("Đã chọn "+pickCount+"/"+cauHoi.length+", các câu đúng đã được chuyển thành màu đỏ, bạn có thể chọn lại để điểm thấp hơn.");
