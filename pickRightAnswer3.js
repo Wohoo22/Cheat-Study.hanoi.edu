@@ -15,5 +15,5 @@ for(i=0;i<cauHoi.length;i++){
 		}
 	}
 }
-alert("Ấn OK để chọn "+pickCount+"/"+cauHoi.length
-      +" câu ("+10/cauHoi.length+" điểm 1 câu), các câu đúng sẽ chuyển thành màu đỏ, bạn có thể chọn lại để điểm thấp hơn.");
+alert("Ấn OK để chọn "+pickCount+"/"+cauHoi.length+" câu ("
+      +10/cauHoi.length+" điểm 1 câu), các câu đúng sẽ chuyển thành màu đỏ, bạn có thể chọn lại để điểm thấp hơn.");
