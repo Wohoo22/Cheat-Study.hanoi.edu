@@ -39,7 +39,6 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
 
 
 ## CÁCH 2(dùng cho tất cả các đề các môn)(đảm bảo 10 điểm):
-* Không cần chuyển math render nữa nhé, để như cũ là được, ai lỡ chuyển rồi thì f12-> application->clear site data.
  
 *Bước 1: Vào đề thi cần làm, vào thi, KHÔNG CHỌN ĐÁP ÁN CÂU NÀO CẢ, nộp bài.
 
@@ -49,7 +48,6 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
 
 
 ## CÁCH 2.2(cho mấy bạn có nick khác và k muốn bị điểm 0 lần đầu)(dùng cho tất cả các đề các môn)(đảm bảo 10 điểm):
-* Không cần chuyển math render nữa nhé, để như cũ là được, ai lỡ chuyển rồi thì f12-> application->clear site data.
 
 *Bước 1: Đăng nhập nick khác, vào đề thi cần làm, KHÔNG CHỌN ĐÁP ÁN CÂU NÀO CẢ, nộp bài, vào "Chi tiết bài làm", F12->Console, nhập code trong file getAnsQues.js rồi ENTER.
 
