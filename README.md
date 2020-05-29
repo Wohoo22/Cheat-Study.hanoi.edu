@@ -1,4 +1,4 @@
-# Cheat-Study.edu
+# Cheat-Study.edu (Closed)
 Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn from Q with luv <3
 
 # UPDATE:
