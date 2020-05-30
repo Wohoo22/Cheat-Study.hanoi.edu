@@ -1,4 +1,4 @@
-# Cheat-Study.edu (Closed)
+# Cheat-Study.edu (This project is closed)
 Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn from Quân with luv <3
 
 # UPDATE:
