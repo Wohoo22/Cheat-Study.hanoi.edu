@@ -1,5 +1,5 @@
 # Cheat-Study.edu (Closed)
-Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn from Q with luv <3
+Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn from Quân with luv <3
 
 # UPDATE:
 * ⚠️⚠️⚠️ NEWEST: web đã cập nhật lại phần hiển thị đáp án và code này chính thức vô dụng. Mình có code khác để dùng đc nhưng giờ cũng k cần dùng web study nữa nên mình cũng k up lên nữa đâu, ai muốn thì liên hệ riêng với mình.
