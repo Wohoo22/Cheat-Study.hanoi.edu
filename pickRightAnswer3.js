@@ -1,4 +1,4 @@
-cauHoi = document.getElementsByClassName("col-11 question-box-title");
+cauHoi = document.getElementsByClassName("col-md-11 col-10 question-box-title");
 ans = JSON.parse(localStorage.getItem("ans"));
 var buttons = document.querySelectorAll('input[type="radio"]');
 pickCount=0;
